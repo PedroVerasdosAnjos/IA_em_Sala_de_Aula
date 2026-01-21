@@ -18,7 +18,9 @@
 
 3. Entregas:
   - Plano de aula detalhado em Word ou PDF
-    - Nome do arquivo: Plano_de_Aula_IA.(doc ou pdf). Pode incluir uma seção destacando o que foi feito com IA.
+    - Nome do arquivo: Plano_de_Aula_IA.pdf.
+  - Plano de aula traduzido para o Inglês
+    - Nome do arquivo: Plano_de_Aula_IA_Ingles.pdf
   - Apresentção em PowerPoint
     - Nome do arquivo: Apresentacao_Aula_IA.pptx
   - Documento de refelxão
